@@ -20,4 +20,4 @@ setTimeout(): This method is used to manage the timing of the CSS animation, ens
 
 <img width="1522" height="824" alt="Screenshot 2025-09-16 160445" src="https://github.com/user-attachments/assets/93f872b5-0510-4928-96fe-feac2026c77d" />
 
-Live Demo:
+Live Demo: counter-app-ten-sandy-38.vercel.app
